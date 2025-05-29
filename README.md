@@ -1,4 +1,4 @@
-sistema de registro de tareas
+Sistema de registro de tareas
 este proyecto implementa un sistema basico de gestion de tareas con autenticacion de usiarios usando PHP0,JSON como base de datos ,CSS para estilos y JavaScrit para interacciones simples.
 caracteristicas
 * inicio de seccion con validaciones desde archivos JSON.
